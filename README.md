@@ -25,3 +25,14 @@ This project is optimized for **Apple Silicon (M1/M2/M3) Macs**.
 ```bash
 git clone https://github.com/<your-github-username>/connect4-rl.git
 cd connect4-rl
+```
+
+**2. Install dependencies:**
+```bash
+pip install streamlit numpy tensorflow
+```
+
+**3. Run the application:**
+```bash
+streamlit run app.py
+```
