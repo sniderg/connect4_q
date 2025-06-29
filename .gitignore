@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# The repo should contain the CODE to GENERATE these files.
+*.pkl
+*.h5
+q_table.pkl
+connect4-dqn.h5
+
 # C extensions
 *.so
 
